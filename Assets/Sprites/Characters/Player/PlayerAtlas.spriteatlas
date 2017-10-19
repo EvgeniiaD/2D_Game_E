@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PlayerAtlas
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 7f5108505ab70e372dd6d7cecf99fdce
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 7f5108505ab70e372dd6d7cecf99fdce
+    totalSpriteSurfaceArea: 211200
+    packables:
+    - {fileID: 102900000, guid: 7d2451c6aba95494c9597b29ffe1dfe1, type: 3}
+    packedSpriteRenderDataKeys:
+    - 52b3a207778f33c4a95b760f29aa7f1c: 21300000
+    - 30ba5725d0de5f443ba77227f16fadbd: 21300000
+    - 574923b99e985a94fb7e7212c307a29e: 21300000
+    - 8be7070fc0f91354081d384bdc42e524: 21300000
+    - 87567f8038989ae458419c85ef402f97: 21300000
+    - 54121169a86e9ba419937f46d892954e: 21300000
+    - ae4146512bd705147be08641566dd0d5: 21300000
+    - 6fecba183192b0148a7e9ead0e925544: 21300000
+    - 01658d8186c53664cbf4570b50a40571: 21300000
+    - 937cc181eabb73d46836dc65da00de62: 21300000
+    - 990d2db346f38ac4e9d165b796f39974: 21300000
+    - f6ed8dbe7205d99489cea41bf039ce91: 21300000
+    - 5902a60e5e601f748b9d25f422fba79b: 21300000
+    - 234aefd79baca384c8bfe09bfb81df46: 21300000
+    - 7f392ab75ae1c93459993b8f32ecf9c0: 21300000
+    - b545d862d4093904aa391dd9778f829f: 21300000
+    - 1a27cb6484562c74aaa81ec63531ad48: 21300000
+    - ce0bc7edc34bca2478f406e09f685da2: 21300000
+    - 5eaa8b31da0242048bfc73d579a5b5be: 21300000
+    - 93a1612406d4eed4eb8bdc3b76905ad1: 21300000
+    - b3e5190d09bc79b47a5f803cb2f09371: 21300000
+    - e118b3ea06a15e64fb83d936fe7a0107: 21300000
+    - 9acefa72644b3e943868e6d282418ce6: 21300000
+    - 560bf2a3a0370794091f4bd4c0a90c4f: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 52b3a207778f33c4a95b760f29aa7f1c, type: 3}
+  - {fileID: 21300000, guid: 30ba5725d0de5f443ba77227f16fadbd, type: 3}
+  - {fileID: 21300000, guid: 574923b99e985a94fb7e7212c307a29e, type: 3}
+  - {fileID: 21300000, guid: 8be7070fc0f91354081d384bdc42e524, type: 3}
+  - {fileID: 21300000, guid: 87567f8038989ae458419c85ef402f97, type: 3}
+  - {fileID: 21300000, guid: 54121169a86e9ba419937f46d892954e, type: 3}
+  - {fileID: 21300000, guid: ae4146512bd705147be08641566dd0d5, type: 3}
+  - {fileID: 21300000, guid: 6fecba183192b0148a7e9ead0e925544, type: 3}
+  - {fileID: 21300000, guid: 01658d8186c53664cbf4570b50a40571, type: 3}
+  - {fileID: 21300000, guid: 937cc181eabb73d46836dc65da00de62, type: 3}
+  - {fileID: 21300000, guid: 990d2db346f38ac4e9d165b796f39974, type: 3}
+  - {fileID: 21300000, guid: f6ed8dbe7205d99489cea41bf039ce91, type: 3}
+  - {fileID: 21300000, guid: 5902a60e5e601f748b9d25f422fba79b, type: 3}
+  - {fileID: 21300000, guid: 234aefd79baca384c8bfe09bfb81df46, type: 3}
+  - {fileID: 21300000, guid: 7f392ab75ae1c93459993b8f32ecf9c0, type: 3}
+  - {fileID: 21300000, guid: b545d862d4093904aa391dd9778f829f, type: 3}
+  - {fileID: 21300000, guid: 1a27cb6484562c74aaa81ec63531ad48, type: 3}
+  - {fileID: 21300000, guid: ce0bc7edc34bca2478f406e09f685da2, type: 3}
+  - {fileID: 21300000, guid: 5eaa8b31da0242048bfc73d579a5b5be, type: 3}
+  - {fileID: 21300000, guid: 93a1612406d4eed4eb8bdc3b76905ad1, type: 3}
+  - {fileID: 21300000, guid: b3e5190d09bc79b47a5f803cb2f09371, type: 3}
+  - {fileID: 21300000, guid: e118b3ea06a15e64fb83d936fe7a0107, type: 3}
+  - {fileID: 21300000, guid: 9acefa72644b3e943868e6d282418ce6, type: 3}
+  - {fileID: 21300000, guid: 560bf2a3a0370794091f4bd4c0a90c4f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - player_slide
+  - player_stand
+  - player_jump
+  - player_action2
+  - player_action1
+  - player_idle
+  - player_hang
+  - player_skid
+  - player_climb2
+  - player_climb1
+  - player_swim1
+  - player_swim2
+  - player_fall
+  - player_hurt
+  - player_talk
+  - player_hold1
+  - player_hold2
+  - player_cheer2
+  - player_cheer1
+  - player_kick
+  - player_walk1
+  - player_walk2
+  - player_duck
+  - player_back
+  m_Tag: PlayerAtlas
+  m_IsVariant: 0

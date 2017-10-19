@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SldierAtlas
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: e1fd5889e0c424f09df7257d54584d4d
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: e1fd5889e0c424f09df7257d54584d4d
+    totalSpriteSurfaceArea: 211200
+    packables:
+    - {fileID: 102900000, guid: aaeaee06f5e5e0d468777192699f286a, type: 3}
+    packedSpriteRenderDataKeys:
+    - bc446318d57c5e9428b1d991f40e921b: 21300000
+    - 254ccd4e0caf74447986ff75a3b65a43: 21300000
+    - bde14adfa107f1c4ca73feeab0491371: 21300000
+    - 2f0e95684fdc6c548bcd9468ca5130bc: 21300000
+    - d43019f5597dc7d40935ee2534a57b95: 21300000
+    - 5f5dd320d4a78e348b122e45e6e7e3cf: 21300000
+    - 91370f6c10ae5324792739b0696b67e7: 21300000
+    - 688c3f0dcb3bff84c95498d0f2f06a95: 21300000
+    - e9cd03f97a1ce494aae0ee4228940ed6: 21300000
+    - ff933af6c3e3e804e8843115f2d52992: 21300000
+    - ca3ace67d334efd4a92bffa9c0308d0d: 21300000
+    - 88892f9141b609b4cb2382f0b262edda: 21300000
+    - 87ea0ded7ad4c4c44b9da62228a24c84: 21300000
+    - f8b65254968333f4f8b657f4e855df3f: 21300000
+    - 2cf8036d97163fb459a9104b78e50272: 21300000
+    - cb7fd054e9465d94c9afc27f2a673dab: 21300000
+    - 1b8f731017ccb4f468b17f7c828019b7: 21300000
+    - c0963eabd8f1b604fa805c4d58c6271a: 21300000
+    - 60f9708df3c397948abf95746f551a77: 21300000
+    - 16cf74e6e751d24428d6ff30c49c4581: 21300000
+    - 4a192d1c9b276934b82fd848148dc658: 21300000
+    - 7a4296d9d2471dd4fb04d755e296f6da: 21300000
+    - 01aacbfbedd605d4ea2771316ffb43b8: 21300000
+    - 60c46e4fec0010b4aa9940dcece40b57: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bc446318d57c5e9428b1d991f40e921b, type: 3}
+  - {fileID: 21300000, guid: 254ccd4e0caf74447986ff75a3b65a43, type: 3}
+  - {fileID: 21300000, guid: bde14adfa107f1c4ca73feeab0491371, type: 3}
+  - {fileID: 21300000, guid: 2f0e95684fdc6c548bcd9468ca5130bc, type: 3}
+  - {fileID: 21300000, guid: d43019f5597dc7d40935ee2534a57b95, type: 3}
+  - {fileID: 21300000, guid: 5f5dd320d4a78e348b122e45e6e7e3cf, type: 3}
+  - {fileID: 21300000, guid: 91370f6c10ae5324792739b0696b67e7, type: 3}
+  - {fileID: 21300000, guid: 688c3f0dcb3bff84c95498d0f2f06a95, type: 3}
+  - {fileID: 21300000, guid: e9cd03f97a1ce494aae0ee4228940ed6, type: 3}
+  - {fileID: 21300000, guid: ff933af6c3e3e804e8843115f2d52992, type: 3}
+  - {fileID: 21300000, guid: ca3ace67d334efd4a92bffa9c0308d0d, type: 3}
+  - {fileID: 21300000, guid: 88892f9141b609b4cb2382f0b262edda, type: 3}
+  - {fileID: 21300000, guid: 87ea0ded7ad4c4c44b9da62228a24c84, type: 3}
+  - {fileID: 21300000, guid: f8b65254968333f4f8b657f4e855df3f, type: 3}
+  - {fileID: 21300000, guid: 2cf8036d97163fb459a9104b78e50272, type: 3}
+  - {fileID: 21300000, guid: cb7fd054e9465d94c9afc27f2a673dab, type: 3}
+  - {fileID: 21300000, guid: 1b8f731017ccb4f468b17f7c828019b7, type: 3}
+  - {fileID: 21300000, guid: c0963eabd8f1b604fa805c4d58c6271a, type: 3}
+  - {fileID: 21300000, guid: 60f9708df3c397948abf95746f551a77, type: 3}
+  - {fileID: 21300000, guid: 16cf74e6e751d24428d6ff30c49c4581, type: 3}
+  - {fileID: 21300000, guid: 4a192d1c9b276934b82fd848148dc658, type: 3}
+  - {fileID: 21300000, guid: 7a4296d9d2471dd4fb04d755e296f6da, type: 3}
+  - {fileID: 21300000, guid: 01aacbfbedd605d4ea2771316ffb43b8, type: 3}
+  - {fileID: 21300000, guid: 60c46e4fec0010b4aa9940dcece40b57, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - soldier_climb2
+  - soldier_climb1
+  - soldier_action1
+  - soldier_action2
+  - soldier_hang
+  - soldier_hold2
+  - soldier_hold1
+  - soldier_fall
+  - soldier_kick
+  - soldier_stand
+  - soldier_talk
+  - soldier_swim2
+  - soldier_swim1
+  - soldier_slide
+  - soldier_hurt
+  - soldier_duck
+  - soldier_jump
+  - soldier_skid
+  - soldier_back
+  - soldier_walk2
+  - soldier_walk1
+  - soldier_idle
+  - soldier_cheer2
+  - soldier_cheer1
+  m_Tag: SldierAtlas
+  m_IsVariant: 0

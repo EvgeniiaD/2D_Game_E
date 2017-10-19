@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Particles
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 356405b7bb31f4b5b398209988c7356f
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 356405b7bb31f4b5b398209988c7356f
+    totalSpriteSurfaceArea: 5920
+    packables:
+    - {fileID: 102900000, guid: 13eaf0a4024f22341b7244699840bef8, type: 3}
+    packedSpriteRenderDataKeys:
+    - 56eb79cdff65f2747a93d6c9d0b9fff3: 21300000
+    - cd1f67460a8de66458dc6e6af2d63e8b: 21300000
+    - 4f67adfe01955ce4ca6ed51657100be7: 21300000
+    - 16dc168e3571f1c41af0a267593724c3: 21300000
+    - 0159473bf4452914695e5ed2a2edb858: 21300000
+    - c1d9f33b500435b438e909d0a4b60c1e: 21300000
+    - 73bf9ad423f2f0e4b87b30bde43beee7: 21300000
+    - 2a4854f9925082c488c48b8eb357651e: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 56eb79cdff65f2747a93d6c9d0b9fff3, type: 3}
+  - {fileID: 21300000, guid: cd1f67460a8de66458dc6e6af2d63e8b, type: 3}
+  - {fileID: 21300000, guid: 4f67adfe01955ce4ca6ed51657100be7, type: 3}
+  - {fileID: 21300000, guid: 16dc168e3571f1c41af0a267593724c3, type: 3}
+  - {fileID: 21300000, guid: 0159473bf4452914695e5ed2a2edb858, type: 3}
+  - {fileID: 21300000, guid: c1d9f33b500435b438e909d0a4b60c1e, type: 3}
+  - {fileID: 21300000, guid: 73bf9ad423f2f0e4b87b30bde43beee7, type: 3}
+  - {fileID: 21300000, guid: 2a4854f9925082c488c48b8eb357651e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - swirl_red
+  - swirl_white
+  - swirl_blue
+  - swirl_orange
+  - square_white
+  - square_blue
+  - square_red
+  - square_orange
+  m_Tag: Particles
+  m_IsVariant: 0

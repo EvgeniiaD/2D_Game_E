@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ZombieAtlas
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: f9e7f2124d5275f2c8290036b35a40fa
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: f9e7f2124d5275f2c8290036b35a40fa
+    totalSpriteSurfaceArea: 211200
+    packables:
+    - {fileID: 102900000, guid: 368068beae4a2ec499b33f4c0cc59282, type: 3}
+    packedSpriteRenderDataKeys:
+    - 4727c5b8f959e66419a0bd736434b878: 21300000
+    - c0b8a5178dd7ca44f988af3933ba88ff: 21300000
+    - 37f8c172f88fff540a241e9756813241: 21300000
+    - a1266c2fc00a6ec4eb6dad4dc5f80e9b: 21300000
+    - d735713a46cd7d6488d63fcc5f642044: 21300000
+    - c1b81d8970dfef04aacf16efbd68f8ea: 21300000
+    - 78d6a28020478f54dbe3a58d5eb9bd60: 21300000
+    - 4c8caeacd3cd8d14fada477b5660200a: 21300000
+    - a322a8ee4a1569c4296c0aed630bc789: 21300000
+    - efef893517707024c89ce9ed9adaa551: 21300000
+    - 8006b8b3e8297794bbe9c6f89cd5f2f1: 21300000
+    - 0e79c6a5a7b7d3445b8066b449bdcfee: 21300000
+    - a14761965ff65894da4d7af26c857826: 21300000
+    - 654d717819421b246972a3f0fe9dc806: 21300000
+    - eb09157c038540b40a72bd106de18efe: 21300000
+    - 74b2999ad3d2db1499a782baf3a59da3: 21300000
+    - 7f9cbdfba100e294c8ee481aa8616cf3: 21300000
+    - aa3bf3ee1780d3b4ea41db992a487102: 21300000
+    - 0d6d5cf83935bd046abf0276773a63de: 21300000
+    - f856dd9a189414f4cab2976846d2219c: 21300000
+    - 05950b8de0e75864bb124b0c8c856468: 21300000
+    - 203084ee0b1e31e439437c77d7a376a7: 21300000
+    - df1f8768b8612c54f98b1ac212b99430: 21300000
+    - dec0ad5fec5f72b46aad279d1ff725c5: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4727c5b8f959e66419a0bd736434b878, type: 3}
+  - {fileID: 21300000, guid: c0b8a5178dd7ca44f988af3933ba88ff, type: 3}
+  - {fileID: 21300000, guid: 37f8c172f88fff540a241e9756813241, type: 3}
+  - {fileID: 21300000, guid: a1266c2fc00a6ec4eb6dad4dc5f80e9b, type: 3}
+  - {fileID: 21300000, guid: d735713a46cd7d6488d63fcc5f642044, type: 3}
+  - {fileID: 21300000, guid: c1b81d8970dfef04aacf16efbd68f8ea, type: 3}
+  - {fileID: 21300000, guid: 78d6a28020478f54dbe3a58d5eb9bd60, type: 3}
+  - {fileID: 21300000, guid: 4c8caeacd3cd8d14fada477b5660200a, type: 3}
+  - {fileID: 21300000, guid: a322a8ee4a1569c4296c0aed630bc789, type: 3}
+  - {fileID: 21300000, guid: efef893517707024c89ce9ed9adaa551, type: 3}
+  - {fileID: 21300000, guid: 8006b8b3e8297794bbe9c6f89cd5f2f1, type: 3}
+  - {fileID: 21300000, guid: 0e79c6a5a7b7d3445b8066b449bdcfee, type: 3}
+  - {fileID: 21300000, guid: a14761965ff65894da4d7af26c857826, type: 3}
+  - {fileID: 21300000, guid: 654d717819421b246972a3f0fe9dc806, type: 3}
+  - {fileID: 21300000, guid: eb09157c038540b40a72bd106de18efe, type: 3}
+  - {fileID: 21300000, guid: 74b2999ad3d2db1499a782baf3a59da3, type: 3}
+  - {fileID: 21300000, guid: 7f9cbdfba100e294c8ee481aa8616cf3, type: 3}
+  - {fileID: 21300000, guid: aa3bf3ee1780d3b4ea41db992a487102, type: 3}
+  - {fileID: 21300000, guid: 0d6d5cf83935bd046abf0276773a63de, type: 3}
+  - {fileID: 21300000, guid: f856dd9a189414f4cab2976846d2219c, type: 3}
+  - {fileID: 21300000, guid: 05950b8de0e75864bb124b0c8c856468, type: 3}
+  - {fileID: 21300000, guid: 203084ee0b1e31e439437c77d7a376a7, type: 3}
+  - {fileID: 21300000, guid: df1f8768b8612c54f98b1ac212b99430, type: 3}
+  - {fileID: 21300000, guid: dec0ad5fec5f72b46aad279d1ff725c5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - zombie_skid
+  - zombie_slide
+  - zombie_swim1
+  - zombie_hurt
+  - zombie_swim2
+  - zombie_hang
+  - zombie_stand
+  - zombie_talk
+  - zombie_walk1
+  - zombie_walk2
+  - zombie_hold1
+  - zombie_hold2
+  - zombie_kick
+  - zombie_action2
+  - zombie_action1
+  - zombie_cheer1
+  - zombie_back
+  - zombie_cheer2
+  - zombie_duck
+  - zombie_idle
+  - zombie_jump
+  - zombie_climb1
+  - zombie_climb2
+  - zombie_fall
+  m_Tag: ZombieAtlas
+  m_IsVariant: 0

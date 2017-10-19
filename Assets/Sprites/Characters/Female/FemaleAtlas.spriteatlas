@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FemaleAtlas
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 87b1a850cfc464a5e0fa80520e7c1143
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 87b1a850cfc464a5e0fa80520e7c1143
+    totalSpriteSurfaceArea: 211200
+    packables:
+    - {fileID: 102900000, guid: b1a065bc55329d949bfd6ae6b795c100, type: 3}
+    packedSpriteRenderDataKeys:
+    - fabe27e0fd6dd5e4b845549441da7329: 21300000
+    - 04a0d2b6278ced6409127fbfafee8cb1: 21300000
+    - 90467ff3e4c22b340bf538425998a7c0: 21300000
+    - 5e296b7acf698e34592fb399277d6cc3: 21300000
+    - 3f0d6c523db76f649823ae73333b1ba7: 21300000
+    - b03601abb6a5963498288a856d2953f5: 21300000
+    - 09800089693bb3a4f90d71ccb3595940: 21300000
+    - 0eb011fef12b5e3489a2c36c2bfc2033: 21300000
+    - 398137a08c8da8f4697058f82261f968: 21300000
+    - df08b08ff7b504a4ca0b0084d7e4d8b9: 21300000
+    - 4ed0288bdf5df6a409045a3f4462bcfe: 21300000
+    - 6d4b27e4e9420c74ba6f100a0d1dd380: 21300000
+    - fda438a5a19435d4e90903342d1992b9: 21300000
+    - 1b66af0d6e932234b8c259f627b83567: 21300000
+    - f7f2a848dfdfe0342be204771b5cd877: 21300000
+    - df07414ae0c759c4e8523f65e9933ac1: 21300000
+    - 26a29945773ce6747a00a29d2e6e4653: 21300000
+    - fd6001a652709f44e940384e0015eb50: 21300000
+    - 0ea4339dc07e377439c2384d01652fb0: 21300000
+    - 44ec56849d1bb4e48874c4ac08d47f77: 21300000
+    - 275174a587fe4ba4b85c9d955666df58: 21300000
+    - 5bedc9b0dd0e4f246a190050dff3ee0b: 21300000
+    - 9c6fc36057fa3a64c95e485c79ebf175: 21300000
+    - b015c0780e421204e9482efaa713ea9f: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fabe27e0fd6dd5e4b845549441da7329, type: 3}
+  - {fileID: 21300000, guid: 04a0d2b6278ced6409127fbfafee8cb1, type: 3}
+  - {fileID: 21300000, guid: 90467ff3e4c22b340bf538425998a7c0, type: 3}
+  - {fileID: 21300000, guid: 5e296b7acf698e34592fb399277d6cc3, type: 3}
+  - {fileID: 21300000, guid: 3f0d6c523db76f649823ae73333b1ba7, type: 3}
+  - {fileID: 21300000, guid: b03601abb6a5963498288a856d2953f5, type: 3}
+  - {fileID: 21300000, guid: 09800089693bb3a4f90d71ccb3595940, type: 3}
+  - {fileID: 21300000, guid: 0eb011fef12b5e3489a2c36c2bfc2033, type: 3}
+  - {fileID: 21300000, guid: 398137a08c8da8f4697058f82261f968, type: 3}
+  - {fileID: 21300000, guid: df08b08ff7b504a4ca0b0084d7e4d8b9, type: 3}
+  - {fileID: 21300000, guid: 4ed0288bdf5df6a409045a3f4462bcfe, type: 3}
+  - {fileID: 21300000, guid: 6d4b27e4e9420c74ba6f100a0d1dd380, type: 3}
+  - {fileID: 21300000, guid: fda438a5a19435d4e90903342d1992b9, type: 3}
+  - {fileID: 21300000, guid: 1b66af0d6e932234b8c259f627b83567, type: 3}
+  - {fileID: 21300000, guid: f7f2a848dfdfe0342be204771b5cd877, type: 3}
+  - {fileID: 21300000, guid: df07414ae0c759c4e8523f65e9933ac1, type: 3}
+  - {fileID: 21300000, guid: 26a29945773ce6747a00a29d2e6e4653, type: 3}
+  - {fileID: 21300000, guid: fd6001a652709f44e940384e0015eb50, type: 3}
+  - {fileID: 21300000, guid: 0ea4339dc07e377439c2384d01652fb0, type: 3}
+  - {fileID: 21300000, guid: 44ec56849d1bb4e48874c4ac08d47f77, type: 3}
+  - {fileID: 21300000, guid: 275174a587fe4ba4b85c9d955666df58, type: 3}
+  - {fileID: 21300000, guid: 5bedc9b0dd0e4f246a190050dff3ee0b, type: 3}
+  - {fileID: 21300000, guid: 9c6fc36057fa3a64c95e485c79ebf175, type: 3}
+  - {fileID: 21300000, guid: b015c0780e421204e9482efaa713ea9f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - female_walk2
+  - female_walk1
+  - female_stand
+  - female_talk
+  - female_swim2
+  - female_swim1
+  - female_fall
+  - female_idle
+  - female_hang
+  - female_hold2
+  - female_hold1
+  - female_duck
+  - female_hurt
+  - female_kick
+  - female_back
+  - female_slide
+  - female_climb2
+  - female_climb1
+  - female_action1
+  - female_action2
+  - female_jump
+  - female_cheer2
+  - female_skid
+  - female_cheer1
+  m_Tag: FemaleAtlas
+  m_IsVariant: 0

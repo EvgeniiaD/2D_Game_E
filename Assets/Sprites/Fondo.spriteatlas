@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Fondo
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 65c306be9d1f9db924b6d29c6f20398c
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 65c306be9d1f9db924b6d29c6f20398c
+    totalSpriteSurfaceArea: 1346593
+    packables:
+    - {fileID: 102900000, guid: dc41089a3089bad48864bb5dc891051a, type: 3}
+    packedSpriteRenderDataKeys:
+    - 08d0cd54737de6341ba8d1fcd03dcfe6: 21300000
+    - c413a90fd965d594ab13cfad09f3e43a: 21300000
+    - 188c22972c02c224b91b26da47a71ed9: 21300000
+    - 10febf63d73bede4bbf907cf5a4271ac: 21300000
+    - 874068756109864459d87ddb05b9e8c8: 21300000
+    - 86b797e10c41c80488d86d57d64676e4: 21300000
+    - 1960056b50b1db74c9b4c141b0ceabc7: 21300000
+    - d817fefe0d681f34188ecff97b9646ea: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 08d0cd54737de6341ba8d1fcd03dcfe6, type: 3}
+  - {fileID: 21300000, guid: c413a90fd965d594ab13cfad09f3e43a, type: 3}
+  - {fileID: 21300000, guid: 188c22972c02c224b91b26da47a71ed9, type: 3}
+  - {fileID: 21300000, guid: 10febf63d73bede4bbf907cf5a4271ac, type: 3}
+  - {fileID: 21300000, guid: 874068756109864459d87ddb05b9e8c8, type: 3}
+  - {fileID: 21300000, guid: 86b797e10c41c80488d86d57d64676e4, type: 3}
+  - {fileID: 21300000, guid: 1960056b50b1db74c9b4c141b0ceabc7, type: 3}
+  - {fileID: 21300000, guid: d817fefe0d681f34188ecff97b9646ea, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - skybox_sideClouds
+  - skybox_side
+  - skybox_bottom
+  - skybox_sideHills
+  - skybox_top
+  - clouds
+  - sun
+  - moon
+  m_Tag: Fondo
+  m_IsVariant: 0
