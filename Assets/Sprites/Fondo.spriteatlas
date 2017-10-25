@@ -8,29 +8,31 @@ SpriteAtlas:
   m_Name: Fondo
   m_EditorData:
     textureSettings:
+      serializedVersion: 2
       anisoLevel: 1
       compressionQuality: 50
       maxTextureSize: 2048
       textureCompression: 0
-      colorSpace: 1
       filterMode: 1
       generateMipMaps: 0
       readable: 0
       crunchedCompression: 0
+      sRGB: 0
     platformSettings: []
     packingParameters:
-      paddingPower: 2
+      serializedVersion: 2
+      padding: 4
       blockOffset: 1
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
     packedHash:
       serializedVersion: 2
-      Hash: 65c306be9d1f9db924b6d29c6f20398c
+      Hash: 2c06c1ecbc9b062884be83529b9933dc
     variantMultiplier: 1
     bindAsDefault: 1
     finalFormat: 4
-    hashString: 65c306be9d1f9db924b6d29c6f20398c
+    hashString: 2c06c1ecbc9b062884be83529b9933dc
     totalSpriteSurfaceArea: 1346593
     packables:
     - {fileID: 102900000, guid: dc41089a3089bad48864bb5dc891051a, type: 3}

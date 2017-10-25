@@ -79,6 +79,11 @@ public class Collision : MonoBehaviour
         ResetState();
 
     }
+    void MyStart()
+    {
+
+
+    }
 
     // Update is called once per frame
     void Update()

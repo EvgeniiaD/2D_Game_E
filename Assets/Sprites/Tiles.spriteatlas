@@ -8,29 +8,31 @@ SpriteAtlas:
   m_Name: Tiles
   m_EditorData:
     textureSettings:
+      serializedVersion: 2
       anisoLevel: 1
       compressionQuality: 50
       maxTextureSize: 2048
       textureCompression: 0
-      colorSpace: 1
       filterMode: 1
       generateMipMaps: 0
       readable: 0
       crunchedCompression: 0
+      sRGB: 0
     platformSettings: []
     packingParameters:
-      paddingPower: 2
+      serializedVersion: 2
+      padding: 4
       blockOffset: 1
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
     packedHash:
       serializedVersion: 2
-      Hash: 145d641044e7dcc4bdb7777a37e8127c
+      Hash: 8ceb8e79ac64df9954adc5ffad859d81
     variantMultiplier: 1
     bindAsDefault: 1
     finalFormat: 4
-    hashString: 145d641044e7dcc4bdb7777a37e8127c
+    hashString: 8ceb8e79ac64df9954adc5ffad859d81
     totalSpriteSurfaceArea: 1392640
     packables:
     - {fileID: 102900000, guid: e7aac2f411fd8e74fbd9ecd97c018e79, type: 3}
